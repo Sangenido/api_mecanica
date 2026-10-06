@@ -19,4 +19,4 @@ O projeto segue o padrão MVC exigido:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/Sangenido/api_mecanica.git](https://github.com/Sangenido/api_mecanica.git)
+   git clone https://github.com/Sangenido/api_mecanica.git
